@@ -38,7 +38,7 @@ public class ClientStr {
             System.out.println("4... Inserisci la stringa da trasmettere al server:" + "\n");
             stringaUtente = tastiera.readLine();
 
-            System.out.println("5... invio la stringa ")
+            System.out.println("5... invio la stringa ");
         }
     }
 }
