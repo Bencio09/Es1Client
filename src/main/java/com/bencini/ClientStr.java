@@ -39,6 +39,6 @@ public class ClientStr {
             stringaUtente = tastiera.readLine();
 
             System.out.println("5... invio la stringa ");
-        }
+        }catch(Exception e){}
     }
 }
